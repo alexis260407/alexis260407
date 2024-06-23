@@ -1,6 +1,6 @@
-<h2 align="center">Bonjour,Bonsoir </h2> 
+<h2 align="left">Bonjour, Bonsoir </h2> 
 
-Je me nomme Alexis, et j'aimerai bien apprendre le dev.
+Je me nomme Alexis, et je suis un petit dev qui aimerait bien apprendre d'autres dev.
 
 <h3 align="left">Dev que je voudrais me focus: </h3>
 Java, Python et NodeJS

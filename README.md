@@ -2,8 +2,8 @@
 
 Je me nomme Alexis, et je suis un petit dev qui aimerait bien apprendre d'autres dev.
 
-<h3 align="left">Dev que je voudrais me focus: </h3>
-Java, Python et NodeJS
+<h3 align="left">Dev que je voudrais apprendre: </h3>
+Java, Java bukkit (Minecraft), Lua, PHP, Python et NodeJS
 
 <h3 align="left">Mes Réseau:</h3>
 <p align="left">

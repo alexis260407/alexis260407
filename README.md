@@ -1,9 +1,8 @@
 <h2 align="left">Bonjour, Bonsoir </h2> 
 
-Je me nomme Alexis, et je suis un petit dev qui aimerait bien apprendre d'autres dev.
+Je me nomme Alexis, et je suis un petit "dev" (askip HTML c'est pas vraiment du dev) qui aimerait bien apprendre d'autres développement style:
 
-<h3 align="left">Dev que je voudrais apprendre: </h3>
-Java, Java bukkit (Minecraft), Lua, PHP, Python et NodeJS
+<h4> Java, Java bukkit (Minecraft), Lua, PHP, Python et NodeJS </h4>h4> 
 
 <h3 align="left">Mes Réseau:</h3>
 <p align="left">

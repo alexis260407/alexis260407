@@ -10,13 +10,13 @@ Je me nomme Alexis, et je suis un petit "dev" (askip HTML c'est pas vraiment du 
 <a href="https://discord.gg/alexis2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexis2604" height="30" width="40" /></a>
 </p>
 
-###
+<h3> Dev actuellement pour Sonosia (catégorie HTML&CSS)</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alexis260407&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexis260407&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/708408616331378738)](https://discord.com/users/708408616331378738)
 
 <h2 align="left"> Les codes que j'arrive a faire: catégorie de + au moins fort avec :(A,B,C et E) </h2> </p>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 

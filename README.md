@@ -1,26 +1,52 @@
-<h2 align="left">Bonjour, Bonsoir </h2> 
+<h1 align="left">Bonjour/Hello de/Form Alexis !</h1> 
 
-Je me nomme Alexis. Et puis c tout quoi raconter d'autre ?
-Ah si.
+<h3> Si je dois me résumer :</h3> 
+"Petit" développeur, aimant l'informatique.
 
-<h2 align="left">Actuellement en BTS CIEL (Première année)</h2> 
-<h3>Code auquel j'aimerais apprendre et à perfectionner correctement :</h3>
+<h3 align="left">Actuellement en BTS Première année en CIEL-IR</h3> 
+<i>(CyberSécurité, Informatique et réseaux, Electronique.)</i>
 
-<h3>Java, Python, C, C++, Lua....</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Langage</b></td>
+      <td><b>My Level</b></td>
+      <td><b>Advantage</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>HTML</b></td>
+      <td>5/10</td>
+      <td>Nothing.</td>
+    </tr>
+	  <tr>
+      <td><b>Python</b></td>
+      <td>3/10</td>
+      <td>Nothing.</td>
+    </tr>
+	  <tr>
+      <td><b>Java</b></td>
+      <td>3/10</td>
+      <td>I can read easily.</td>
+    </tr>
+    <tr>
+      <td><b>C/C++</b></td>
+      <td>1/10</td>
+      <td>Nothing</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 align="left">Mes Réseau:</h3>
-<p align="left">
 <a href="https://twitter.com/@alexis57665923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alexis57665923" height="30" width="40" /></a>
 <a href="https://discord.gg/alexis2604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alexis2604" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Code auquel j'ai un peu d'expérience</h2>
-</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <h2 align="left">Code que j'ai déjà touché/Utilisé niveau Scolaire/Stage</h2>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48"/>
-<img src="https://github.com/user-attachments/assets/d680aa3e-b439-4e21-9707-9d56bb874d41" width="40" height="40"/></p>
 
 
 <div align="center">
@@ -33,4 +59,4 @@ Ah si.
 
 
 <p>un site est en dev depuis.... jamais. Je dois m'acheter un domaine avant.</p>
-<p> readme Update 10/09 17h. Next time, make better "ReadMe" </p>
+<p><i>ReadMe Updated 19/09 21h</i></p>
